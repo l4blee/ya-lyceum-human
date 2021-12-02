@@ -1,0 +1,12 @@
+П.2: ничем не отличаются
+
+П.4: init
+     heat added
+     boots
+     README added
+     dots
+     fix readme
+     Merge branch 'boots' of https://github.com/YandexLyceum/human into boots_buttons
+     Merge branch 'buttons' of https://github.com/YandexLyceum/human into boots_buttons
+     init
+     Merge branch 'hat' of https://github.com/YandexLyceum/human
